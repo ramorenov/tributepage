@@ -1,0 +1,48 @@
+#main{
+  min-width:400px;
+  margin:20px 20px;
+  padding:10px;
+  border-radius:10px;
+  background:#eee;
+}
+#title{
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: large;
+  max-width:800px;
+  text-align:center;
+  height: auto;
+  margin: auto;
+}
+
+img{
+  max-width: 60%;
+  display: block; 
+  height: auto;
+  margin: auto;
+
+}
+#img-caption{
+  max-width: 100%;
+  text-align:center;
+  height: auto;
+  margin: auto;
+  padding:10px;
+}
+
+ul{
+  max-width:70%;
+  margin:0 auto;
+  text-align:justify;
+  padding:10px;
+  list-style: disc;
+}
+
+
+h4{
+  font-style: italic;
+  max-width: 100%;
+  text-align:center;
+  height: auto;
+  margin: auto;
+}
